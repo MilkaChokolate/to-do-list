@@ -1,0 +1,22 @@
+#content-page{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.task-container{
+    display: flex;
+    align-items: center;
+}
+.text-task {
+    font-size: 16px;
+    color: red;
+}
+.done-text {
+    color: green;
+    text-decoration: line-through;
+}
+img{
+    height: 15px;
+    width: 15px;
+    margin-left: 10px;
+}
